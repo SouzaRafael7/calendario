@@ -6,3 +6,7 @@ function colorirDia(){
     [(parseInt (days)+2)];
     td.style.backgroundColor = color;
 }
+function azul(){
+    
+    
+}
