@@ -5,12 +5,12 @@ function colorirDia() {
     let td = calendar.getElementsByTagName('td')[parseInt(days) + 2];
      
     if (days <= 0) {
-        alert("Digite um número positivo.");
+        alert("Digite um número acima de 1.");
         return;
     }
      
-    days = Math.max(1, parseInt(days));
-     
+    days = Math.min(1, parseInt(days));
+
     let colorCounts = {};
     if (localStorage.getItem('colorCounts')) {
         colorCounts = JSON.parse(localStorage.getItem('colorCounts'));
