@@ -1,5 +1,4 @@
  # calendario
-# codigo-pronto
 ## Indice
 
 * [introdoção](#introducao)
