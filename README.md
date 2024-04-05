@@ -8,7 +8,7 @@
 ## Introdução
  Na atividade foi proposto fazer um calendário intuitivo que marca o dia e o tipo de veiculo utilizado no frete de uma empresa fictícia utilizando javascript, html e css.
  
-## Site
+## [Site](/index.html)
 O site e bem simples e fácil de ser utilizado;
 
 Temos no início do site na parte de cima o calendário onde logo abaixo temos uma legenda com as cores e o número de cada veículo de frete que vão aparecer no calendário com uma cor específica;
