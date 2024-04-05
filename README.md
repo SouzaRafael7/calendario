@@ -10,8 +10,11 @@
  
 ## Site
 O site e bem simples e fácil de ser utilizado;
+
 Temos no início do site na parte de cima o calendário onde logo abaixo temos uma legenda com as cores e o número de cada veículo de frete que vão aparecer no calendário com uma cor específica;
+
 O calendário tem algumas regras onde quem o acessar deve seguir, como por exemplo cada usuário no site pode digitar um número de 1 a 31, digitando abaixo ou acima desses números, vai aparecer um aviso na tela pedindo para o usuário digitar um outro número seguindo a regra;
+
 Além dessa regra, tem a regra dos 3, onde cada veículo escolhido deve apresentar apenas 3 cores no calendário  não sendo possivel repetir o dia, caso o usuário ultrapasse e tente adicionar 4 dias com uma determinada cor, vai aparecer um aviso no qual indica que o máximo de dias daquela cor foi atingindo, pedindo que o mesmo escolha outra cor.
 ## Tecnologias Utilizadas
 * [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
